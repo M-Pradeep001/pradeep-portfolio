@@ -28,7 +28,7 @@ function Home() {
         </a>
 
         <a
-          href="/Pradeeps%20Ivanti%20Resume.pdf"
+          href="/Pradeeps%20Resume.pdf"
           download="Pradeep_Resume.pdf"
           className="text-gray-700 hover:text-black transition-all duration-300 text-lg hover:scale-110 transform relative group"
         >

@@ -7,7 +7,7 @@ Showcasing my journey, projects, and skills — beautifully and interactively.
 
 ## 🚀 Live Demo
 
-👉 [https://pradeep-portfolio.vercel.app](https://pradeep-portfolio.vercel.app)
+👉 [https://pradeep-portfolio.vercel.app](https://pradeep-portfolio-pi.vercel.app/)
 
 ---
 
